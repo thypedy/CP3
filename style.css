@@ -1,0 +1,51 @@
+
+
+.header{
+    width: 980px;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    align-items: center;
+}
+
+.bodys{
+    margin: 10px 0;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+}
+
+.sidebar{
+    width: 270px;
+    height: 450px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.content{
+    margin: 0 20px;
+    width: 690px;
+    height: 450px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.footer{
+    width: 980px;
+    height: 70px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+}
